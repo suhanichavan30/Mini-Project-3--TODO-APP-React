@@ -1,8 +1,11 @@
 
 
 Here’s a list of technologies commonly used to build a To-Do App with React:
+
 React.js
+
 Tailwind CSS
+
 Localstorage-To persist tasks on the browser, so they remain after refreshing.
 
 Clone the repository
